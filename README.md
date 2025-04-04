@@ -1,12 +1,10 @@
-[![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
+# Betamax-tech Ecommerce Demo
 
-# Shopco
-
-Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
+This is a demo project inspired by Shopco. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
 
 ## Table of Contents
 
-- [Shopco](#shopco)
+- [BT Ecommerce](#BT Ecommerce)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Demo](#demo)
@@ -19,16 +17,6 @@ Shopco is an open-source project that converts a Figma design of an e-commerce w
   - [Issues](#issues)
   - [License](#license)
   - [Contact](#contact)
-
-## Overview
-
-Shopco bridges the gap between design and development by converting Figma designs into production-ready code. The project follows best practices for **SEO**, **performance optimization**, and **accessibility**, making it a perfect foundation for developers looking to create scalable and maintainable e-commerce front-ends.
-
-## Demo
-
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
-
-<!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
 ## Features
 
@@ -54,13 +42,13 @@ Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/
 
 ## Installation
 
-To get started with Shopco locally, follow these steps:
+To get started with BT Ecommerce locally, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
-   cd next-ecommerce-shopco
+   git clone https://github.com/betamax-tech/next-ecommerce-demo.git
+   cd next-ecommerce-demo
    ```
 
 2. **Install dependencies:**
@@ -96,7 +84,7 @@ To get started with Shopco locally, follow these steps:
 ## Project Structure
 
 ```bash
-Shopco/
+BT Ecommerce/
 │
 ├── public/                # Static assets
 ├── src/
@@ -121,7 +109,7 @@ Shopco/
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute, Please follow these steps to contribute to Shopco:
+Contributions are welcome! If you'd like to contribute, Please follow these steps to contribute to Betamax-tech:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
@@ -131,7 +119,7 @@ Contributions are welcome! If you'd like to contribute, Please follow these step
 
 ## Issues
 
-Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:mr.mohammadoftadeh@gmail.com) for support.
+Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:cmarkalfonso@yahoo.com) for support.
 
 ## License
 
@@ -141,6 +129,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 Feel free to reach out to:
 
-- **Name**: Mohammad Oftadeh
-- **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
-- **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
+- **Name**: Betamax Tech
+- **GitHub**: [https://github.com/betamax-tech](https://github.com/betamax-tech)
